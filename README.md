@@ -15,3 +15,8 @@ To increase revenue, the targeted age category should be adult as the highest nu
 CATEGORY 3
 CUSTOMER COMMUTE
 The general trend of graph shows it is downward sloping. As distance of bike purchaser get farther, the sales of bikes went down. There were few exceptions as seen that bike riders in 5-10 miles.
+
+THE DASHBOARD 
+https://github.com/favourgeorge162/Data_Analysis_Projects/blob/main/Excel%20Tutorial%20Dashboard.png
+
+Press the link to view the dashboard 
